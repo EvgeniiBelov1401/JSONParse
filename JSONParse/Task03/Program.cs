@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-//Динамический парсинг JSON из файла (без классов)
+//Динамический парсинг JSON из файла (без классов) Через System.Text.Json
 internal class Program
 {
     private static void Main(string[] args)
