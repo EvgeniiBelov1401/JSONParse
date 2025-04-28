@@ -1,0 +1,14 @@
+{
+    "name": "Bob",
+    "age": 30,
+    "isActive": true,
+    "skills": [
+      "C#",
+      "C++",
+      "JavaScript"
+    ],
+    "address": {
+        "city": "London",
+        "country": "UK"
+    }
+}
