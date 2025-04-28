@@ -3,11 +3,12 @@
     "age": 25,
     "isActive": true,
     "skills": [
-        "C#",
-        "JavaScript"
+      "C#",
+      "C++",
+      "JavaScript"
     ],
     "address": {
-        "city": "Moscow",
-        "country": "Russia"
+        "city": "London",
+        "country": "UK"
     }
 }
