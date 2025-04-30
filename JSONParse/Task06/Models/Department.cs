@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task05.Models
+namespace Task06.Models
 {
-    public class Person
+    public class Department
     {
-        public int Id { get; set; }
         public string? Name { get; set; }
+        public List<Employee>? Employees { get; set; }
+        public decimal Budget { get; set; }
     }
 }
