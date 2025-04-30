@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using Task05.Models;
 
-//Парсинг массива JSON из файла
+//Парсинг массива JSON из файла 
 internal class Program
 {
     private static void Main(string[] args)
